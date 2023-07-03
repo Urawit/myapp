@@ -6,4 +6,7 @@ public class Cat {
     public void meow(){
         System.out.println("meow");
     }
+    public void run(){
+        System.out.println("run!");
+    }
 }
