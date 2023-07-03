@@ -4,6 +4,6 @@ public class Cat {
     private String name;
     private int age;
     public void meow(){
-        System.out.println("meow!");
+        System.out.println("meow");
     }
 }
