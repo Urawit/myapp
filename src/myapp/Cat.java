@@ -6,4 +6,7 @@ public class Cat {
     public void meow(){
         System.out.println("meow");
     }
+    public void sneak(){
+        System.out.println("sneak!");
+    }
 }
